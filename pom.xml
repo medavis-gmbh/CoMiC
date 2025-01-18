@@ -39,7 +39,7 @@
 
         <!-- Dependency versions -->
         <assertj.version>3.27.3</assertj.version>
-        <cyclonedx.version>9.0.3</cyclonedx.version>
+        <cyclonedx.version>9.1.0</cyclonedx.version>
         <download-maven-plugin.version>1.13.0</download-maven-plugin.version>
         <freemarker.version>2.3.34</freemarker.version>
         <guava.version>33.4.0-jre</guava.version>
